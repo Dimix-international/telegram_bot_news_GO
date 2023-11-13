@@ -1,0 +1,85 @@
+# github.com/SlyMarbo/rss v1.0.5
+## explicit; go 1.17
+github.com/SlyMarbo/rss
+# github.com/andybalholm/cascadia v1.3.2
+## explicit; go 1.16
+github.com/andybalholm/cascadia
+# github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394
+## explicit
+github.com/axgle/mahonia
+# github.com/cristalhq/aconfig v0.18.5
+## explicit; go 1.16
+github.com/cristalhq/aconfig
+# github.com/cristalhq/aconfig/aconfighcl v0.17.1
+## explicit; go 1.16
+github.com/cristalhq/aconfig/aconfighcl
+# github.com/go-shiori/dom v0.0.0-20210627111528-4e4722cd0d65
+## explicit; go 1.12
+github.com/go-shiori/dom
+# github.com/go-shiori/go-readability v0.0.0-20231029095239-6b97d5aba789
+## explicit; go 1.20
+github.com/go-shiori/go-readability
+# github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
+## explicit; go 1.16
+github.com/go-telegram-bot-api/telegram-bot-api/v5
+# github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f
+## explicit
+github.com/gogs/chardet
+# github.com/hashicorp/hcl v1.0.0
+## explicit
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/jmoiron/sqlx v1.3.5
+## explicit; go 1.10
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/lib/pq v1.10.9
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/samber/lo v1.38.1
+## explicit; go 1.18
+github.com/samber/lo
+# github.com/sashabaranov/go-openai v1.17.5
+## explicit; go 1.18
+github.com/sashabaranov/go-openai
+github.com/sashabaranov/go-openai/internal
+# github.com/tomakado/containers v0.0.0-20230620211702-4a5ca7fb9fd3
+## explicit; go 1.19
+github.com/tomakado/containers/set
+# golang.org/x/exp v0.0.0-20230131160201-f062dba9d201
+## explicit; go 1.18
+golang.org/x/exp/constraints
+# golang.org/x/net v0.9.0
+## explicit; go 1.17
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+# golang.org/x/text v0.9.0
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
